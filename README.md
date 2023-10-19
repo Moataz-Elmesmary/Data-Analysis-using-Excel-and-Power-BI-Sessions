@@ -15,7 +15,7 @@
 - auto fill options - Format Painter
 
 ### Session 3 outLine:
-- Funtions with more than 1 condition or criteria
+- Functions with more than 1 condition or criteria
 - Table and Table Tools
 - Charts (Introduction)
  
