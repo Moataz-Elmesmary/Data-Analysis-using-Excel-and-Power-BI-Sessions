@@ -1,5 +1,5 @@
 ## Excel Sessions from basics to advanced
-
+&emsp;&emsp; *(3h each)*
 ### Session 1 outline:
 - Introduction to Data & Data analysis life cycle
 - Functions
