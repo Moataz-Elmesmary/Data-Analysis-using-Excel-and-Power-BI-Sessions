@@ -20,6 +20,13 @@
 - Charts (Introduction)
  
 ### Session 4 outLine:
+- Charts
+- Insert Picture
+- Static Dashboard
+- Pivot Tables
+- Pivot Charts
+- Slicer
+- Dynamic Dashboard
 
 ### Session 5 outLine:
 
