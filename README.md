@@ -29,6 +29,10 @@
 - Dynamic Dashboard
 
 ### Session 5 outLine:
+- More in Pivot Tables & Charts
+- Date and Time Functions<br>
+- Charts Format - save as template
+- More in Slicer Settings
 
 ### Session 6 outLine:
 
