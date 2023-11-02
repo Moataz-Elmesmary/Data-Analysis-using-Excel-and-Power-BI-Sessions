@@ -35,7 +35,13 @@
 - More in Slicer Settings
 
 ### Session 6 outLine:
-
+- IF Function
+- Nested IF - IFS
+- More in Pivot Table
+- Top 10 - Bottom 10 - Filters
+- Slicer
+- Sparklines
+- Conditional Formatting
 ### Session 7 outLine:
 
 ### Session 8 outLine:
