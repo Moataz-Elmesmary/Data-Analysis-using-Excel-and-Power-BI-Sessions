@@ -43,5 +43,9 @@
 - Sparklines
 - Conditional Formatting
 ### Session 7 outLine:
+- Hyper Link
+- VLOOKUP
+- HLOOKUP
+- Pivot Table (Grouping)
 
 ### Session 8 outLine:
