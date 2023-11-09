@@ -6,9 +6,7 @@
 - Arithmetic Operators
 - Filter
 
-<img align="right" width="500" height="240" src="https://raw.githubusercontent.com/Moataz-Elmesmary/Excel-for-Data-Analysis-Sessions/main/Session%204/Task%204%20by%20Moataz.PNG">
-<h3>Session 2 outLine:</h3>
-
+### Session 2 outLine:
 - More Functions
 - Functions with condition
 - Relative & Absolute Reference
@@ -16,7 +14,9 @@
 - Data - Data Validation - Drop down list
 - auto fill options - Format Painter
 
-### Session 3 outLine:
+<img align="right" width="500" height="240" src="https://raw.githubusercontent.com/Moataz-Elmesmary/Excel-for-Data-Analysis-Sessions/main/Session%204/Task%204%20by%20Moataz.PNG">
+<h3>Session 3 outLine:</h3>
+
 - Functions with more than 1 condition or criteria
 - Table and Table Tools
 - Charts (Introduction)
