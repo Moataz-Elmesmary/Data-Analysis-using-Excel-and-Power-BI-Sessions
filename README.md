@@ -6,7 +6,7 @@
 - Arithmetic Operators
 - Filter
 
-<img align="right" width="300" height="170" src="https://raw.githubusercontent.com/Moataz-Elmesmary/Excel-for-Data-Analysis-Sessions/main/Session%204/Task%204%20by%20Moataz.PNG">
+<img align="right" width="500" height="240" src="https://raw.githubusercontent.com/Moataz-Elmesmary/Excel-for-Data-Analysis-Sessions/main/Session%204/Task%204%20by%20Moataz.PNG">
 <h3>Session 2 outLine:</h3>
 
 - More Functions
