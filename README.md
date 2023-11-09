@@ -14,15 +14,14 @@
 - Data - Data Validation - Drop down list
 - auto fill options - Format Painter
 
-<img align="right" width="500" height="240" src="https://raw.githubusercontent.com/Moataz-Elmesmary/Excel-for-Data-Analysis-Sessions/main/Session%204/Task%204%20by%20Moataz.PNG">
-<h3>Session 3 outLine:</h3>
-
+### Session 3 outLine:
 - Functions with more than 1 condition or criteria
 - Table and Table Tools
 - Charts (Introduction)
  
-### Session 4 outLine:
-- Charts
+<img align="right" width="500" height="240" src="https://raw.githubusercontent.com/Moataz-Elmesmary/Excel-for-Data-Analysis-Sessions/main/Session%204/Task%204%20by%20Moataz.PNG">
+<h3>Session 4 outLine:</h3>- Charts
+
 - Insert Picture
 - Static Dashboard
 - Pivot Tables
