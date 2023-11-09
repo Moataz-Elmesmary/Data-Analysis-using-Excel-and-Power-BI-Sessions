@@ -49,5 +49,17 @@
 - Pivot Table (Grouping)
 
 ### Session 8 outLine:
+- Revision (Task 7)
+- Data Cleaning
+- Errors: Duplicated Values - Diff. Data Type - Blank Cells - Spaces - Date & Time - Formatting - Wrong Data
+- To insert table, make sure that there is no Header Row / Merge Cells / Blank Rows or Columns / Subtotal
+- Logical Formulas
+- More in Pivot Tables
+  
 ### Session 9 outLine:
+### Session 10 outLine:
+### Session 11 outLine:
+### Session 12 outLine:
+
+
 
