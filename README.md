@@ -20,8 +20,9 @@
 - Charts (Introduction)
  
 <img align="right" width="500" height="240" src="https://raw.githubusercontent.com/Moataz-Elmesmary/Excel-for-Data-Analysis-Sessions/main/Session%204/Task%204%20by%20Moataz.PNG">
-<h3>Session 4 outLine:</h3>- Charts
+<h3>Session 4 outLine:</h3>
 
+- Charts
 - Insert Picture
 - Static Dashboard
 - Pivot Tables
@@ -35,7 +36,9 @@
 - Charts Format - save as template
 - More in Slicer Settings
 
-### Session 6 outLine:
+<img align="right" width="500" height="240" src="https://github.com/Moataz-Elmesmary/Excel-for-Data-Analysis-Sessions/assets/92026137/68674802-adaa-47ce-bb2a-f2456e732962">
+<h3>Session 6 outLine:</h3>
+
 - IF Function
 - Nested IF - IFS
 - More in Pivot Table
