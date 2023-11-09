@@ -6,7 +6,9 @@
 - Arithmetic Operators
 - Filter
 
-### Session 2 outLine:
+<img align="right" width="300" height="170" src="https://raw.githubusercontent.com/Moataz-Elmesmary/Excel-for-Data-Analysis-Sessions/main/Session%204/Task%204%20by%20Moataz.PNG">
+<h3>Session 2 outLine:</h3>
+
 - More Functions
 - Functions with condition
 - Relative & Absolute Reference
