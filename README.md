@@ -61,6 +61,9 @@
 - More in Pivot Tables
   
 ### Session 9 outLine:
+- 40 Min (QUIZ)
+- Text Functions
+
 ### Session 10 outLine:
 ### Session 11 outLine:
 ### Session 12 outLine:
