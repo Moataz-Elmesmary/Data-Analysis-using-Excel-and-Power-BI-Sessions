@@ -65,8 +65,14 @@
 - Text Functions
 
 ### Session 10 outLine:
+- VLOOKUP + MATCH
+- INDEX & MATCH
+- S1 Power Query
+ 
 ### Session 11 outLine:
 ### Session 12 outLine:
+### Session 13 outLine:
+### Session 14 outLine:
 
 
 
