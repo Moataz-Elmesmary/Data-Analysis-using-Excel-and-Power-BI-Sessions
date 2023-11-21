@@ -70,6 +70,12 @@
 - S1 Power Query
  
 ### Session 11 outLine:
+- S2 Power Query
+- Add Column >> Custom - Conditional - index - duplicate - multiply
+- Merge Queries
+- Load to (only create connection)
+- Append Queries
+ 
 ### Session 12 outLine:
 ### Session 13 outLine:
 ### Session 14 outLine:
