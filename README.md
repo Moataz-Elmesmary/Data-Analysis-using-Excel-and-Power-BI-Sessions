@@ -77,8 +77,16 @@
 - Append Queries
  
 ### Session 12 outLine:
+- S3 Power Query
+- More Transformations
+- Combine
+- Group by
+- +Relationships
+
 ### Session 13 outLine:
 ### Session 14 outLine:
+### Session 15 outLine:
+### Session 16 outLine:
 
 
 
