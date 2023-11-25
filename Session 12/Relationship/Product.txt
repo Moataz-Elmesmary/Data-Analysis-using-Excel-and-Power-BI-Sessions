@@ -1,0 +1,13 @@
+Product-ID	Product	Company	Price
+QU-G83911	Quad	Gel Boomerangs	10
+VE-T83553	Vee-Rang	Tri Fly	20
+CA-G84812	Carlota	Gel Boomerangs	30
+DA-T81656	Darnell	Tri Fly	10
+BE-G88383	Bellen	Gel Boomerangs	20
+YA-C83103	Yanaki	Colorado Boomerangs	30
+MT-C81287	Mt. Fun	Colorado Boomerangs	10
+SU-G81548	Sunset	Gel Boomerangs	20
+AS-C89526	Aspen	Colorado Boomerangs	30
+CR-C83971	Crest	Colorado Boomerangs	10
+FU-T88744	Fun Fly	Tri Fly	10
+FA-T82068	FastFly	Tri Fly	10
