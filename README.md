@@ -84,7 +84,13 @@
 - +Relationships
 
 ### Session 13 outLine:
+- Power Pivot
+
+<img align="right" width="200" height="260" src="https://github.com/Moataz-Elmesmary/Excel-for-Data-Analysis-Sessions/assets/92026137/bbe74c49-c992-4aed-936e-4fdec18a88bf">
+
 ### Session 14 outLine:
+- S1 Power BI
+- Check image:👉
 ### Session 15 outLine:
 ### Session 16 outLine:
 
