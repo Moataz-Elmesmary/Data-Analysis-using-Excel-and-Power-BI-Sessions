@@ -94,7 +94,14 @@
 ### Session 14 outLine:
 - S1 Power BI
 - Check image:👉
+
 ### Session 15 outLine:
+- DAX Measures
+- Drill through analysis
+- Tables and Matrix > Cell Elements
+- Slicer
+- Shapes
+
 ### Session 16 outLine:
 
 
