@@ -95,12 +95,15 @@
 - S1 Power BI
 - Check image:👉
 
-### Session 15 outLine:
-- DAX Measures
-- Drill through analysis
-- Tables and Matrix > Cell Elements
-- Slicer
-- Shapes
+
+<h3>Session 15 outLine:</h3>
+- DAX Measures<br>
+- Drill through analysis<br>
+- Tables and Matrix > Cell Elements<br>
+- Slicer<br>
+- Shapes<br>
+<img align="mid" width="480" height="240" src="https://github.com/Moataz-Elmesmary/Data-Analysis-using-Excel-and-Power-BI-Sessions/assets/92026137/8664b318-a79e-4551-9ab0-6e44510d651b">
+<br>
 
 ### Session 16 outLine:
 
